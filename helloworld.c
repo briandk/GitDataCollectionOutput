@@ -1,5 +1,5 @@
 #include <stdio.h>
-# or something
+// or something
 int main() {
 
   printf("hello, world!");
